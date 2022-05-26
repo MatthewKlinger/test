@@ -1,0 +1,87 @@
+.header {
+	background-color:white ;
+	color: purple;
+	border-style:none;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	padding:5px;
+	font-family: serif, Georgia;
+}
+
+.header2{
+	alignment: left;
+	color:white;
+	padding:20px;
+}
+
+body {
+	background-image: url("/static/Images/Purple-Background.jpg");
+	border-style:none;
+}
+
+.users{
+	padding:20px;
+	font-size:25px;
+	color:white;
+}
+
+.create{
+	padding:20px;
+	font-size:25px;
+	color:sandybrown;
+}
+
+
+p {
+	font-size:30px;
+	color:white;
+}
+
+tr,td{
+	padding:12px;
+}
+
+.loginTable {
+	padding:100px;
+	margin-left: auto;
+  	margin-right: auto;
+	color: white;
+	font-size: 30px;
+}
+
+.button {
+	background-color: rebeccapurple;
+  	border-color: white;
+	padding:10px;
+	margin:auto;
+  	text-align: center;
+  	font-size: 25px;
+	width:120px;
+	border-radius: 12px;
+	border-style: solid;
+}
+
+.navbar{
+	background-color: white;
+	color: purple;
+	border-style:none;
+	font-weight: bold;
+	font-size: 30px;
+	padding:5px;
+	font-family: serif, Georgia;
+}
+
+.navbar li{
+  display: inline-block;
+  margin-right: 30px;
+  font-size: 30px;
+}
+
+img {
+  border-color: white;
+  display: block;
+  border-style:solid;
+  margin-left: auto;
+  margin-right: auto;
+}
